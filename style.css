@@ -128,10 +128,10 @@ div #at ul.dot li a {
 .floatRight{
     float:right;
     margin-left:20px;
-    width: 60%;
-    height: 60%;
+    width: 50%;
+    height: 70%;
     position: relative;
-    top: 120px;
-    right: 50px;
+    top: 50px;
+    right: 90px;
     
 }
