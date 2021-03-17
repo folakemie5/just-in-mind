@@ -121,7 +121,7 @@ div #at ul.dot li {
 div #at ul.dot li a {
     list-style-type: none;
     color: #7fe2e2;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 /* for image */
